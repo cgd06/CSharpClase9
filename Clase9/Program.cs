@@ -9,7 +9,9 @@ namespace Clase9
         static void Main(string[] args)
         {
             // new MostrarTodoElDisco().init();
-            new LeerImagen().leer();
+            // new LeerImagen().leer();
+            new ElProblemaDelThis().init();
+            Console.ReadLine();
         }
     }
 }
