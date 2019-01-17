@@ -10,7 +10,8 @@ namespace Clase9
         {
             // new MostrarTodoElDisco().init();
             // new LeerImagen().leer();
-            new ElProblemaDelThis().init();
+            // new ElProblemaDelThis().init();
+            new Genericos().init();
             Console.ReadLine();
         }
     }
